@@ -4,6 +4,10 @@
 <p align="center">
   Construyo aplicaciones web completas: desde la interfaz en React hasta la API en PHP y la base de datos en MySQL,
   pensadas para resolver procesos reales de empresas.
+</p> 
+
+<p align="left">
+  <a href="mailto:lugomiguel372@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -25,11 +29,11 @@
 
 ---
 
-### Proyectos profesionales
+## Proyectos profesionales
 
 > Estos repositorios son privados por pertenecer a empresas. Con gusto muestro el trabajo en una entrevista.
 
-#### Utilidades Brangus
+### Utilidades Brangus
 *React 18 · Vite · Tailwind CSS · MUI · React Router · PHP · MySQL · SQL Server*
 
 Plataforma web interna y modular de Carnes Brangus, usada a diario en la planta de procesamiento, los distintos puntos de venta y las oficinas. Su núcleo es el **inventario completo de la planta**: cada kilo que entra se sigue a lo largo de todo el proceso, hasta que sale despachado.
@@ -52,7 +56,7 @@ Plataforma web interna y modular de Carnes Brangus, usada a diario en la planta 
 
 Backend en servicios PHP independientes por acción, con respuestas JSON uniformes, validación de datos y reglas de negocio en el servidor, y migraciones SQL versionadas.
 
-#### Chat corporativo
+### Chat corporativo
 *React · PHP orientado a objetos · Pusher*
 
 Chat interno de la empresa, integrado en Utilidades Brangus, con mensajería en tiempo real entre trabajadores.
@@ -63,7 +67,7 @@ Chat interno de la empresa, integrado en Utilidades Brangus, con mensajería en 
 - Tiempo real con **Pusher**, encapsulado detrás de una interfaz para poder cambiarlo por WebSockets propios en el futuro.
 - Backend con una arquitectura **orientada a objetos** con servicios separados, autenticación por token Bearer, secretos en `.env` y respuestas JSON estandarizadas.
 
-#### Casino Brangus: pedidos del restaurante
+### Casino Brangus: pedidos del restaurante
 *React 19 · Vite 7 · Tailwind CSS 4 · pdfmake · PHP · MySQL*
 
 Aplicación tipo kiosco para que los trabajadores pidan en el restaurante de la empresa, pensada para pantallas táctiles.
@@ -73,7 +77,7 @@ Aplicación tipo kiosco para que los trabajadores pidan en el restaurante de la 
 - Al confirmar, el pedido se guarda en la base de datos y se genera un **ticket en PDF** con consecutivo, fecha, detalle y documento enmascarado.
 - La sesión se cierra automáticamente al terminar, lista para el siguiente trabajador.
 
-#### Gestión de Personal
+### Gestión de Personal
 *React · PHP · MySQL*
 
 Plataforma de gestión de trabajadores en varias sedes con arquitectura por roles (administrador, gestión humana, supervisor de campo):
@@ -86,7 +90,7 @@ Plataforma de gestión de trabajadores en varias sedes con arquitectura por role
 
 ---
 
-### Proyectos públicos
+## Proyectos públicos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -103,12 +107,4 @@ Plataforma de gestión de trabajadores en varias sedes con arquitectura por role
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelLugo&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
-
----
-
-### Contacto
-
-<p align="left">
-  <a href="mailto:lugomiguel372@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
