@@ -107,7 +107,7 @@ Plataforma de gestión de trabajadores en varias sedes con arquitectura por role
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [SGI-ProyectoFormativo](https://github.com/4ngelLugo/SGI-ProyectoFormativo) | Sistema de gestión desarrollado como proyecto formativo | JavaScript |
+| [SGI-ProyectoFormativo](https://github.com/4ngelLugo/SGI-ProyectoFormativo) | Sistema de gestión de invantarios con estilo de sistema operativo macOS | React · PHP |
 | [historias_clinicas-optica](https://github.com/4ngelLugo/historias_clinicas-optica) | Gestión de historias clínicas para una óptica | PHP |
 | [documentos-php-react](https://github.com/4ngelLugo/documentos-php-react) | Gestión de documentos con frontend en React y backend en PHP | React · PHP |
 | [fetchCatAPI](https://github.com/4ngelLugo/fetchCatAPI) | Prueba técnica de React: imagen y dato curioso de gatos desde dos APIs | React |
