@@ -6,8 +6,6 @@
   pensadas para resolver procesos reales de empresas.
 </p> 
 
-### Contacto
-
 <p align="left">
   <a href="mailto:lugomiguel372@gmail.com">
     <img src="https://img.shields.io/badge/lugomiguel372%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" alt="Correo" />
@@ -60,6 +58,7 @@ Plataforma web interna y modular de Carnes Brangus, usada a diario en la planta 
 
 Backend en servicios PHP independientes por acción, con respuestas JSON uniformes, validación de datos y reglas de negocio en el servidor, y migraciones SQL versionadas.
 
+
 ### Chat corporativo
 *React · PHP orientado a objetos · Pusher*
 
@@ -71,6 +70,7 @@ Chat interno de la empresa, integrado en Utilidades Brangus, con mensajería en 
 - Tiempo real con **Pusher**, encapsulado detrás de una interfaz para poder cambiarlo por WebSockets propios en el futuro.
 - Backend con una arquitectura **orientada a objetos** con servicios separados, autenticación por token Bearer, secretos en `.env` y respuestas JSON estandarizadas.
 
+
 ### Casino Brangus: pedidos del restaurante
 *React 19 · Vite 7 · Tailwind CSS 4 · pdfmake · PHP · MySQL*
 
@@ -80,6 +80,7 @@ Aplicación tipo kiosco para que los trabajadores pidan en el restaurante de la 
 - Arma su pedido desde el menú del día, eligiendo cantidades, y ve el total en tiempo real.
 - Al confirmar, el pedido se guarda en la base de datos y se genera un **ticket en PDF** con consecutivo, fecha, detalle y documento enmascarado.
 - La sesión se cierra automáticamente al terminar, lista para el siguiente trabajador.
+
 
 ### Gestión de Personal
 *React · PHP · MySQL*
