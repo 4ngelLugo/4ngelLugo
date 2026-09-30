@@ -6,8 +6,12 @@
   pensadas para resolver procesos reales de empresas.
 </p> 
 
+### Contacto
+
 <p align="left">
-  <a href="mailto:lugomiguel372@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:lugomiguel372@gmail.com">
+    <img src="https://img.shields.io/badge/lugomiguel372%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" alt="Correo" />
+  </a>
 </p>
 
 ---
