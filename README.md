@@ -23,10 +23,18 @@
 
 ---
 
+### Formación
+
+- **Tecnólogo en Análisis y Desarrollo de Software**
+- **Técnico en Desarrollo de Software**
+
+---
+
 ### Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,materialui,php,mysql,git,github,vscode&perline=12" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,materialui,php,mysql,npm,git,github,vscode&perline=13" alt="Tecnologías" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" title="SQL Server" />
 </p>
 
 ---
