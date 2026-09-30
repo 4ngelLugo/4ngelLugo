@@ -16,7 +16,7 @@
 
 ### Sobre mí
 
-- Trabajo en **Carnes Brangus**, donde desarrollo **Utilidades Brangus**, la plataforma interna que maneja el inventario completo de la planta de procesamiento, desde el ingreso de los lotes hasta el despacho, con trazabilidad en cada paso.
+- Trabajo en **Agropecuaria Villa Maria**, donde desarrollo **Utilidades Brangus**, la plataforma interna que maneja el inventario completo de la planta de procesamiento, desde el ingreso de los lotes hasta el despacho, con trazabilidad en cada paso.
 - Integro hardware con la web: lectura de **básculas**, impresión silenciosa de **rótulos Zebra** con código de barras, impresión con QZ Tray y lectores de código de barras.
 - Desarrollé la aplicación de **pedidos del casino** (restaurante de la empresa) y un sistema de **gestión de personal** con registro de asistencia, cálculo de horas y notificaciones push.
 - Sigo aprendiendo sobre arquitectura backend, bases de datos y buenas prácticas de seguridad.
